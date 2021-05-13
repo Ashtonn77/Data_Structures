@@ -1,5 +1,3 @@
-package TopologicalOrdering;
-
 import java.util.Stack;
 
 public class TopologicalOrdering {
