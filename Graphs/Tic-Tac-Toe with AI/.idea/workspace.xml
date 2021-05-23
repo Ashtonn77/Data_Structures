@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e78719e-ed4c-48b6-9158-41c8148e1795" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/out/production/Graphs/BreadthFirstSearch/basic/test/BFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/out/production/Graphs/BreadthFirstSearch/basic/test/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/out/production/Graphs/BreadthFirstSearch/basic/test/Vertex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/out/production/Graphs/BreadthFirstSearch/fisset/testing/area/BFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/out/production/Graphs/BreadthFirstSearch/fisset/testing/area/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/out/production/Graphs/BreadthFirstSearch/fisset/testing/area/Vertex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/out/production/Graphs/BreadthFirstSearch/web/crawler/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/out/production/Graphs/BreadthFirstSearch/web/crawler/WebCrawler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/out/production/Graphs/DepthFirstSearch/iterative/DFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/out/production/Graphs/DepthFirstSearch/iterative/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/out/production/Graphs/DepthFirstSearch/iterative/Vertex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/out/production/Graphs/DepthFirstSearch/recursive/DFS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/out/production/Graphs/DepthFirstSearch/recursive/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/out/production/Graphs/DepthFirstSearch/recursive/Vertex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/out/production/Graphs/TopologicalOrdering/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/out/production/Graphs/TopologicalOrdering/TopologicalOrdering.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/out/production/Graphs/TopologicalOrdering/Vertex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/src/BreadthFirstSearch/basic/test/BFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/src/BreadthFirstSearch/basic/test/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/src/BreadthFirstSearch/basic/test/Vertex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/src/BreadthFirstSearch/fisset/testing/area/BFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/src/BreadthFirstSearch/fisset/testing/area/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/src/BreadthFirstSearch/fisset/testing/area/Vertex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/src/BreadthFirstSearch/web/crawler/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/src/BreadthFirstSearch/web/crawler/WebCrawler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/src/DepthFirstSearch/iterative/DFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/src/DepthFirstSearch/iterative/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/src/DepthFirstSearch/iterative/Vertex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/src/DepthFirstSearch/recursive/DFS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/src/DepthFirstSearch/recursive/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BFS_DFS_BASIC/src/DepthFirstSearch/recursive/Vertex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CycleDetection/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CycleDetection/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CycleDetection/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CycleDetection/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CycleDetection/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CycleDetection/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CycleDetection/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CycleDetection/CycleDetection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CycleDetection/out/production/CycleDetection/com/gotham/CycleDetection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CycleDetection/out/production/CycleDetection/com/gotham/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CycleDetection/out/production/CycleDetection/com/gotham/Vertex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CycleDetection/src/com/gotham/CycleDetection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CycleDetection/src/com/gotham/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CycleDetection/src/com/gotham/Vertex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Graphs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TOPOLOGICAL_ORDERING/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TOPOLOGICAL_ORDERING/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TOPOLOGICAL_ORDERING/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TOPOLOGICAL_ORDERING/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TOPOLOGICAL_ORDERING/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TOPOLOGICAL_ORDERING/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TOPOLOGICAL_ORDERING/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TOPOLOGICAL_ORDERING/src/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TOPOLOGICAL_ORDERING/src/TOPOLOGICAL_ORDERING.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TOPOLOGICAL_ORDERING/src/TopologicalOrdering.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TOPOLOGICAL_ORDERING/src/Vertex.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TOPOLOGICAL_ORDERING/src/com/company/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1sfLqpYef1xM5NMprpwN0nqKsrr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/intelliJWorkspace/examPractice" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.remoteExternalTools" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tictactoe.mainclasses.Main" />
+      <module name="Tic-Tac-Toe_with_AI.Tic-Tac-Toe_with_AI-task.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tictactoe.mainclasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e78719e-ed4c-48b6-9158-41c8148e1795" name="Default Changelist" comment="" />
+      <created>1621258890637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621258890637</updated>
+      <workItem from="1621258892463" duration="1387000" />
+      <workItem from="1621343837691" duration="113000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
