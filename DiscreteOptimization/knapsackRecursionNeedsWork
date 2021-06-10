@@ -1,0 +1,70 @@
+public class NewPractice {
+
+    static int currentBest = 0;
+    static int[] w = {3, 8, 5, 4};
+    static int[] v = {4, 15, 10, 8};
+    static int[] x = {0, 0, 0, 0};
+    static int capacity = 11;
+    static int itemCount = 3;    
+    
+    public static void main(String[] args) {
+
+        float est = calculateInitialEstimate(capacity, itemCount, -1);
+    
+        int greatestValue = knapsack(capacity, itemCount, est, 0);    
+
+        System.out.println("Greatest value: " + greatestValue);
+        System.out.println(Arrays.toString(x));
+
+    }
+
+    private static int knapsack(int c, int k, float estimate, int val){
+        
+        if(val > currentBest) currentBest = val;
+        
+        if(k < 0 || estimate < currentBest) return 0;
+
+        int valWithk = 0;
+        if(w[k] <= c)
+            valWithk = v[k] + knapsack(c - w[k], k - 1, estimate, val + v[k]); 
+
+        int valWithoutK = knapsack(c, k - 1, Math.max(val, estimate - v[k]), val);
+        
+        if(valWithk > valWithoutK) x[k] = 1;
+     
+        return Math.max(valWithk, valWithoutK);
+        
+    }
+    
+    private static float calculateInitialEstimate(int c, int n, int skip){
+        
+        float estimate = 0.0f;
+        int capacity = c;
+        int k = n;
+        
+        while(capacity > 0){
+            
+            if(k == skip){
+                k--;
+                continue;
+            }
+            
+            if(w[k] <= capacity){
+                estimate = estimate + v[k];
+                capacity -= w[k];
+            }else{
+                estimate += capacity * (float)(v[k] / w[k]);  
+                capacity = 0;
+            }
+            
+            k--;
+            
+        }
+                
+        return estimate;
+        
+    }
+    
+       
+
+}
