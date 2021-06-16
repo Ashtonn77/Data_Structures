@@ -81,12 +81,12 @@ class MinHeap:
             index = smallerChildIndex
 
 
-heap = MinHeap(5)
+# heap = MinHeap(5)
 
-heap.insert(15)
-heap.insert(150)
-heap.insert(10)
+# heap.insert(15)
+# heap.insert(150)
+# heap.insert(10)
 
-print(heap.removeMin())
+# print(heap.removeMin())
 
-print(heap.storage)
+# print(heap.storage)
